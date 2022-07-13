@@ -1,15 +1,11 @@
 {
-    "name": "i6systems/kint",
-    "description": "A fork of an old version of kint-php/kint",
+    "name": "raveren/kint",
+    "description": "Kint - debugging helper for PHP developers",
     "keywords": ["kint", "php", "debug"],
     "type": "library",
-    "homepage": "https://github.com/i6systems/kint",
+    "homepage": "https://github.com/raveren/kint",
     "license": "MIT",
     "authors": [
-        {
-            "name": "i6 Systems",
-            "homepage": "https://github.com/i6systems"
-        },
         {
             "name": "Rokas Šleinius",
             "homepage": "https://github.com/raveren"
